@@ -19,6 +19,7 @@ public class PruebaGitHub {
         System.out.println("Hola mundo");
         System.out.println("vales arta XD jaja\n mi usario: Riusaky68606");
         System.out.println("XDXD Vales verga");
+        System.out.println("Este men mijo ya hiciste mate ? XD");
     }
     
 }
