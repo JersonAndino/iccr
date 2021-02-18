@@ -18,6 +18,7 @@ public class PruebaGitHub {
         // TODO code application logic here
         System.out.println("Hola mundo");
         System.out.println("vales arta XD jaja\n mi usario: Riusaky68606");
+        System.out.println("XDXD Vales verga");
     }
     
 }
